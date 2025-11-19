@@ -75,3 +75,8 @@ QuizApp/
 │       └── script.js     # JavaScript for frontend functionality
 ├── requirements.txt      # List of required Python packages
 └── README.md             # This README file
+
+```
+
+### Developed by
+**Prajwal Devaraj**
